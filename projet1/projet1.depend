@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1582102205 source:c:\users\killi\onedrive\bureau\travail\c\projet1\pointeur.c
+
+1582102533 source:c:\users\killi\onedrive\bureau\travail\c\projet1\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+
+1582108075 source:c:\users\killi\onedrive\bureau\travail\c\projet1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"fonctions.h"
+	"pointeur.h"
+
+1582102082 c:\users\killi\onedrive\bureau\travail\c\projet1\fonctions.h
+
+1582102105 c:\users\killi\onedrive\bureau\travail\c\projet1\pointeur.h
+
