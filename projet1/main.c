@@ -22,7 +22,7 @@ int main(void)
     switch(affichageMenu())
     {
                 case 1:
-                    printf("voila\n");
+                    printf("Bienvenue sur le jeu\n");
                     break;
                 case 2:
                     printf("ok \n");
