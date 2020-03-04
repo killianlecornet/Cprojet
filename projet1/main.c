@@ -103,7 +103,7 @@ void main(void)
             // CAS 3: PETIT RESUME DU JEU ( PAS FAIT )
 
             case 3:
-                printf("Resume le jeu.");
+                printf("Resume le jeu.\n Matthias \n Killian ");
                 break;
 
             // QUITTER LE PROGRAMME
@@ -394,6 +394,7 @@ do{
                             Player1.degat = degatBackupPerso * Player1.niveau;
                             printf("You are now level %d, Congratulations! \n", Player1.niveau);
                             printf("Your damage and your health level up too!\n\n");
+                            Sleep(2000);
                             printf("Health: %d\n", Player1.barreHP);
                             printf("Damage: %d\n", Player1.degat);
                             fincombat = 1;
@@ -584,6 +585,12 @@ int cartographie(){
     if(y == 0 && x == 1){
             combat();
             cartographie();
+
+    if(y == 0 && x == 2){
+            combat();
+            cartographie();
+
+}
 
 }
 
