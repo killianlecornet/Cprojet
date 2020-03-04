@@ -31,17 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="fonctions.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="fonctions.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="pointeur.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="pointeur.h" />
+		<Unit filename="structure.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
